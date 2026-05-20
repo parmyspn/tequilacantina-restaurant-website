@@ -60,8 +60,9 @@ function HomeSection() {
             <p>1933 Lonsdale Avenue, North Vancouver, V7M 2K3</p>
             <div className="hours">
               <p>Monday: 11 AM - 9 PM</p>
-              <p>Tuesday - Thursday & Sunday: 11 AM - 10 PM</p>
+              <p>Tuesday - Thursday: 11 AM - 10 PM</p>
               <p>Friday - Saturday: 11 AM - 11 PM</p>
+              <p>Sunday: 11 AM - 10 PM</p>
             </div>
             <p className="phone">Phone: 604-770-4433</p>
           </div>
