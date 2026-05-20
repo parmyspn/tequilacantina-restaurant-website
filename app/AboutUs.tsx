@@ -9,22 +9,23 @@ function AboutUs() {
       </h1>
       <div className="m-5">
         <p className="about-us-paragraph text-justify block leading-8 p-6">
-          located at 1933 Lonsdale Street in North Vancouver, where you’ll find
-          plenty of parking available for your convenience. <br></br>At Tequila
-          Cantina, we offer an authentic Mexican dining experience. Join us
-          every Friday for live mariachi music, adding a festive touch to your
-          dining. Our diverse menu features traditional Mexican dishes that let
-          you truly savor the flavors of Mexico. Our dishes are made using only
-          the finest, freshest ingredients. Our recipes are crafted to be both
-          healthy and delicious. We do not use preservatives, food coloring, or
-          additives in our cooking. Our house salsa and guacamole are made with
-          all-natural ingredients, ensuring a fresh and flavorful experience.{" "}
-          <br></br>Don&#39;t miss our Taco Tuesday, where you can enjoy special
-          deals on our delicious tacos. <br></br>
-          Tequila Cantina is open every day, making it easy for you to enjoy our
-          delectable food and vibrant atmosphere whenever you wish. Come and
-          experience the true taste of Mexico at Tequila Cantina, where quality
-          and tradition meet.
+          Located at 1933 Lonsdale Avenue in North Vancouver, Tequila Cantina
+          offers plenty of convenient parking for our guests.<br></br>
+          At Tequila Cantina, we provide an authentic Mexican dining experience
+          with a diverse menu featuring traditional Mexican dishes that allow you
+          to truly savor the flavors of Mexico.<br></br>
+          We use only the finest and freshest ingredients, with recipes crafted
+          to be both delicious and wholesome. We never use preservatives,
+          artificial coloring, or additives in our cooking. Our house-made salsa
+          and guacamole are prepared with all-natural ingredients to ensure a
+          fresh and flavorful experience every time.<br></br>
+          Don&#39;t miss Taco Tuesday, where you can enjoy special deals on our
+          delicious tacos.<br></br>
+          Tequila Cantina is open daily, making it easy to enjoy our vibrant
+          atmosphere and authentic cuisine whenever you like. To make your
+          experience even more special, we also feature live mariachi music on
+          the first Friday of every month. Come experience the true taste of
+          Mexico at Tequila Cantina where quality and tradition come together.
         </p>
       </div>
       <div className="flex text-center justify-center m-8 space-x-2">

@@ -14,9 +14,9 @@ function HomePage() {
           <h1 className="text-2xl font-bold">Hours and Location</h1>
           <p>1933 Lonsdale Avenue, North Vancouver, V7M 2K3</p>
           <div className="hours">
-            <p>Monday - Thursday: 11 AM - 10 PM</p>
-            <p>Friday and Saturday: 11 AM - 11 PM</p>
-            <p>Sunday: 11 AM - 10 PM</p>
+            <p>Monday: 11 AM - 9 PM</p>
+            <p>Tuesday - Thursday & Sunday: 11 AM - 10 PM</p>
+            <p>Friday - Saturday: 11 AM - 11 PM</p>
           </div>
           <p className="phone">Phone: 236-551-2243</p>
         </div>
